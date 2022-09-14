@@ -1,14 +1,14 @@
 ---
-layout: post
-read_time: true
-show_date: true
-title: "Birth of Took C"
-date: 2022-09-15
-img: posts/20210420/post8-rembrandt.jpg
-tags: [took-c]
-category: TookC
+layout: post #ensure this one stays like this
+read_time: true # calculate and show read time based on number of words
+show_date: true # show the date of the post
+title:  Birth of Took C
+date:   2022-09-15 20:21:11 0000
+description: "Starting point of took c"
+img: # the path for the hero image, from the image folder (if the image is directly on the image folder, just the filename is needed)
+tags: [took-c, bald]
 author: Took C
-description: "How Took C appear?"
+toc: yes # leave empty or erase for no table of contents
 ---
 Recently I was [reading an article](https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/) about a cool project that intends to have a neural network create songs of the late club of the 27 (artists that have tragically died at age 27 or near, and in the height of their respective careers), artists such as Amy Winehouse, Jimmy Hendrix, Curt Cobain and Jim Morrison.
 
