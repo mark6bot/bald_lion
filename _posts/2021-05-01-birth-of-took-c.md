@@ -9,8 +9,6 @@ img: # the path for the hero image, from the image folder (if the image is direc
 tags: [took-c, bald]
 author: Took C
 toc: yes # leave empty or erase for no table of contents
-
-a_tweet: https://twitter.com/kwai_8964/status/1219269529424916480?s=21&t=Arnww_HptuMszZbQrn77lw
 ---
 **呀虧**
 呀虧本體係煉蠱派推特帳號，原用名「Kwai」，因「kwai」廣東話讀音嘅第一聲為「虧」而得名，著女裝嘅時候則會化名「葵姬」。
@@ -20,7 +18,6 @@ a_tweet: https://twitter.com/kwai_8964/status/1219269529424916480?s=21&t=Arnww_H
 呀虧原本係一隻綠色恐龍，因喜愛獅子又得畫師賜小獅子頭像而決定改變種族。
 呀虧最初變種嗰陣係一隻毛囊健康、頭毛濃密嘅可愛幼獅。
 佢變禿嘅真正原由因年代久遠及資料缺失難以考證。根據現存資料顯示，原因有兩個版本：
-{% twitter page.a_tweet %}
 [https://twitter.com/kwai_8964/status/1219269529424916480?s=21&t=Arnww_HptuMszZbQrn77lw](https://twitter.com/kwai_8964/status/1219269529424916480?s=21&t=Arnww_HptuMszZbQrn77lw)
 
 1）用錯洗頭水搞到全身甩毛，洗頭水威力強大，將毛囊完全破壞導致生唔返啲毛。
