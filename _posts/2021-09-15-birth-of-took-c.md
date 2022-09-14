@@ -3,7 +3,7 @@ layout: post #ensure this one stays like this
 read_time: true # calculate and show read time based on number of words
 show_date: true # show the date of the post
 title:  Birth of Took C
-date:   2022-09-15 20:21:11 0000
+date:   2021-09-15
 description: "Starting point of took c"
 img: # the path for the hero image, from the image folder (if the image is directly on the image folder, just the filename is needed)
 tags: [took-c, bald]
