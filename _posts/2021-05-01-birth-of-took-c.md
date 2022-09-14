@@ -18,11 +18,12 @@ toc: yes # leave empty or erase for no table of contents
 呀虧原本係一隻綠色恐龍，因喜愛獅子又得畫師賜小獅子頭像而決定改變種族。
 呀虧最初變種嗰陣係一隻毛囊健康、頭毛濃密嘅可愛幼獅。
 佢變禿嘅真正原由因年代久遠及資料缺失難以考證。根據現存資料顯示，原因有兩個版本：
-https://twitter.com/kwai_8964/status/1219269529424916480?s=21&t=Arnww_HptuMszZbQrn77lw
+[https://twitter.com/kwai_8964/status/1219269529424916480?s=21&t=Arnww_HptuMszZbQrn77lw](https://twitter.com/kwai_8964/status/1219269529424916480?s=21&t=Arnww_HptuMszZbQrn77lw)
 
 1）用錯洗頭水搞到全身甩毛，洗頭水威力強大，將毛囊完全破壞導致生唔返啲毛。
 佢而家兩鬢嘅頭毛其實係假狗嚟。甩毛後嘅虧其實唔係禿頭獅子，而係光頭獅子。
 https://twitter.com/nggaytaksiutim/status/1223596623508361216?s=21&t=Arnww_HptuMszZbQrn77lw
+
 https://twitter.com/crystaljel_/status/1223605087492161537?s=21&t=Arnww_HptuMszZbQrn77lw
 
 2）同推友愉快咁玩耍嘅時候，因為太臭串而畀貪玩嘅推友熊熊用剃毛刀剃走咗頭頂嘅毛，剃過毛嘅頭皮因不可抗因素就算生返毛都會自動再甩過，後尾慢慢變成常態就再都生唔返。
