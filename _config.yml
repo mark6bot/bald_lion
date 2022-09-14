@@ -1,6 +1,6 @@
 # Site settings
-title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+title: Took C
+description: 'Bald lion at HK Twitter' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/bald_lion" # the subpath of your site, e.g. /blog
 url: "https://mark6bot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
